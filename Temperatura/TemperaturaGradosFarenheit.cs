@@ -1,13 +1,13 @@
 class TemperaturaGradosFarenheit
 {
-    //atributo
+    // Atributo
     private double _dblGradosFarenheit = 0;
-    // propiedad
+    // Propiedad
     public double GradosFarenheit
     {
         set { _dblGradosFarenheit = value; }
     }
-    // metodo
+    // Metodo
     public double ConvertiAGradosCentigrados(){
         return 5 * (_dblGradosFarenheit -32 )/9;
     }
