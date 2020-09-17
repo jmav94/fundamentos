@@ -1,0 +1,13 @@
+D:\dev\c#\aplicaciones de consola\TestPropiedades\obj\Debug\netcoreapp3.1\TestPropiedades.csprojAssemblyReference.cache
+D:\dev\c#\aplicaciones de consola\TestPropiedades\obj\Debug\netcoreapp3.1\TestPropiedades.AssemblyInfoInputs.cache
+D:\dev\c#\aplicaciones de consola\TestPropiedades\obj\Debug\netcoreapp3.1\TestPropiedades.AssemblyInfo.cs
+D:\dev\c#\aplicaciones de consola\TestPropiedades\obj\Debug\netcoreapp3.1\TestPropiedades.csproj.CoreCompileInputs.cache
+D:\dev\c#\aplicaciones de consola\TestPropiedades\bin\Debug\netcoreapp3.1\TestPropiedades.exe
+D:\dev\c#\aplicaciones de consola\TestPropiedades\bin\Debug\netcoreapp3.1\TestPropiedades.deps.json
+D:\dev\c#\aplicaciones de consola\TestPropiedades\bin\Debug\netcoreapp3.1\TestPropiedades.runtimeconfig.json
+D:\dev\c#\aplicaciones de consola\TestPropiedades\bin\Debug\netcoreapp3.1\TestPropiedades.runtimeconfig.dev.json
+D:\dev\c#\aplicaciones de consola\TestPropiedades\bin\Debug\netcoreapp3.1\TestPropiedades.dll
+D:\dev\c#\aplicaciones de consola\TestPropiedades\bin\Debug\netcoreapp3.1\TestPropiedades.pdb
+D:\dev\c#\aplicaciones de consola\TestPropiedades\obj\Debug\netcoreapp3.1\TestPropiedades.dll
+D:\dev\c#\aplicaciones de consola\TestPropiedades\obj\Debug\netcoreapp3.1\TestPropiedades.pdb
+D:\dev\c#\aplicaciones de consola\TestPropiedades\obj\Debug\netcoreapp3.1\TestPropiedades.genruntimeconfig.cache

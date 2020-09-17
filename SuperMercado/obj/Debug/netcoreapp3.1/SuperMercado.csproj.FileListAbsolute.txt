@@ -1,0 +1,13 @@
+D:\dev\c#\aplicaciones de consola\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.exe
+D:\dev\c#\aplicaciones de consola\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.deps.json
+D:\dev\c#\aplicaciones de consola\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.runtimeconfig.json
+D:\dev\c#\aplicaciones de consola\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.runtimeconfig.dev.json
+D:\dev\c#\aplicaciones de consola\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.dll
+D:\dev\c#\aplicaciones de consola\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.pdb
+D:\dev\c#\aplicaciones de consola\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.csprojAssemblyReference.cache
+D:\dev\c#\aplicaciones de consola\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.AssemblyInfoInputs.cache
+D:\dev\c#\aplicaciones de consola\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.AssemblyInfo.cs
+D:\dev\c#\aplicaciones de consola\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.csproj.CoreCompileInputs.cache
+D:\dev\c#\aplicaciones de consola\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.dll
+D:\dev\c#\aplicaciones de consola\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.pdb
+D:\dev\c#\aplicaciones de consola\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.genruntimeconfig.cache
