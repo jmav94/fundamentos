@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\c#\\aplicaciones de consola\\SuperMercado\\SuperMercado.csproj": {}
+    "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\SuperMercado\\SuperMercado.csproj": {}
   },
   "projects": {
-    "D:\\dev\\c#\\aplicaciones de consola\\SuperMercado\\SuperMercado.csproj": {
+    "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\SuperMercado\\SuperMercado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\c#\\aplicaciones de consola\\SuperMercado\\SuperMercado.csproj",
+        "projectUniqueName": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\SuperMercado\\SuperMercado.csproj",
         "projectName": "SuperMercado",
-        "projectPath": "D:\\dev\\c#\\aplicaciones de consola\\SuperMercado\\SuperMercado.csproj",
+        "projectPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\SuperMercado\\SuperMercado.csproj",
         "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\c#\\aplicaciones de consola\\SuperMercado\\obj\\",
+        "outputPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\SuperMercado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config",

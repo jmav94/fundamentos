@@ -24,6 +24,4 @@ class Articulo
         get { return _dblCantidadEnExistencia; }
         set { _dblCantidadEnExistencia = value; }
     }
-    
-    
 }
