@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbmaPd5+xMJObZFZ6wNpCyN8vrLbubjImdSWwBVTxPkX6flsPBUCJ0SpTxgz/z2+gLbzbbL1qI+GVGVsBg6yYg==",
+  "dgSpecHash": "OW912JRKF47rEQhKQc9aJig8/+OMi0xuxoP3UuR5D9M0MsxSWV0SwTjLBjVCGwFYS9jfMaEFLPQL/f8FBW4FdA==",
   "success": true,
-  "projectFilePath": "D:\\dev\\c#\\aplicaciones de consola\\Temperatura\\Temperatura.csproj",
+  "projectFilePath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\Temperatura\\Temperatura.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

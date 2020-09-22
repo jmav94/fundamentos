@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\Temperatura\\Temperatura.csproj",
-      "projectName": "Temperatura",
-      "projectPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\Temperatura\\Temperatura.csproj",
+      "projectUniqueName": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\2_1-32\\2_1-32.csproj",
+      "projectName": "2_1-32",
+      "projectPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\2_1-32\\2_1-32.csproj",
       "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\Temperatura\\obj\\",
+      "outputPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\2_1-32\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config",

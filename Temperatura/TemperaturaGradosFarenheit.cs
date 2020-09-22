@@ -1,7 +1,7 @@
 class TemperaturaGradosFarenheit
 {
     // Atributo
-    private double _dblGradosFarenheit = 0;
+    private double _dblGradosFarenheit;
     // Propiedad
     public double GradosFarenheit
     {
