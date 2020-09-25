@@ -32,8 +32,8 @@ class Articulo
     }
 
     public double CalcularTotal(){
-        //return CantidadVendida * (Precio + CalcularIVA() - CalcularDescuento());
-        return CantidadVendida * (Precio *1.16 - Precio*.02);
+        return CantidadVendida * (Precio + CalcularIVA() - CalcularDescuento());
+        //return CantidadVendida * (Precio *1.16 - Precio*.02);
     }
     
 }

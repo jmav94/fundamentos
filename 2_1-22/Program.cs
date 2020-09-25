@@ -6,8 +6,10 @@ namespace _2_1_22
     {
         static void Main(string[] args)
         {
+            // Creacion del objeto
             Articulo unArticulo = new Articulo();
 
+            // Solicitar capturar los atributos del objeto por medio de las propiedades
             Console.Write("Capture el nombre del articulo:");
             unArticulo.Nombre = Console.ReadLine();
             Console.Write("Capture el precio del articulo:");
@@ -15,6 +17,7 @@ namespace _2_1_22
             Console.Write("Capture la cantidad vendida del articulo:");
             unArticulo.CantidadVendida = int.Parse(Console.ReadLine());
 
+            // Imprimir resultados
             Console.WriteLine($"El iva del articulo es de: {unArticulo.CalcularIVA()}");
             Console.WriteLine($"El descuento del articulo es de: {unArticulo.CalcularDescuento()}");
             Console.WriteLine($"El subtotal del articulo es de: {unArticulo.CalcularSubtotal()}");
