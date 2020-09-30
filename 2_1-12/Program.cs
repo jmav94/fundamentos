@@ -16,7 +16,7 @@ namespace _2_1_12
             Console.Write("Capture el Año: ");
             miFecha.Anio = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"{miFecha.Dia}/{miFecha.Mes}/{miFecha.Anio}");
+            Console.WriteLine($"\tLa fecha Capturada es: \n{miFecha.Dia}/{miFecha.Mes}/{miFecha.Anio}");
         }
     }
 }
