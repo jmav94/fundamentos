@@ -1,0 +1,13 @@
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\obj\Debug\netcoreapp3.1\4_1-5.csprojAssemblyReference.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\obj\Debug\netcoreapp3.1\4_1-5.AssemblyInfoInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\obj\Debug\netcoreapp3.1\4_1-5.AssemblyInfo.cs
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\obj\Debug\netcoreapp3.1\4_1-5.csproj.CoreCompileInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\bin\Debug\netcoreapp3.1\4_1-5.exe
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\bin\Debug\netcoreapp3.1\4_1-5.deps.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\bin\Debug\netcoreapp3.1\4_1-5.runtimeconfig.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\bin\Debug\netcoreapp3.1\4_1-5.runtimeconfig.dev.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\bin\Debug\netcoreapp3.1\4_1-5.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\bin\Debug\netcoreapp3.1\4_1-5.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\obj\Debug\netcoreapp3.1\4_1-5.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\obj\Debug\netcoreapp3.1\4_1-5.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_1-5\obj\Debug\netcoreapp3.1\4_1-5.genruntimeconfig.cache
