@@ -7,12 +7,14 @@ class LlamadaTelefonica
         set { _intDuracion = value; }
     }
     public int CalcularCosto(){
-        if (Duracion <=3)
+        /*if (Duracion <=3)
         {
             return 5;    
         }else {
             return (Duracion - 3) * 3 + 5;  
-        }
+        }*/   
+
+        return Duracion<=3 ? 5 :(Duracion-3) * 3 + 5;
     }
     
 }
