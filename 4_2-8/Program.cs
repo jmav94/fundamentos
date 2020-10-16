@@ -16,6 +16,10 @@ namespace _4_2_8
             {
                 Console.WriteLine($"{unNumero.Valor} es impar");
             }
+            // Validacion e impresion con operador condicional e interpolacion.
+            Console.WriteLine(unNumero.EsPar() ? $"{unNumero.Valor} es par" : $"{unNumero.Valor} es impar");
+            // Validacion e impresion con operador condicional e interpolacion doble.
+            Console.WriteLine( $"{unNumero.Valor} es {(unNumero.EsPar() ? "par" : "impar")}");
         }
     }
 }

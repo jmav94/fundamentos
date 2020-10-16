@@ -7,11 +7,12 @@ class Numero
         set { _intValor = value; }
     }
     public bool EsPar(){
-        if (Valor % 2 == 0)
+        return Valor % 2 == 0 ? true : false;
+        /*if (Valor % 2 == 0)
         {
             return true;
         }else{
-            return false;
-        }
+           return false; 
+        }*/
     }
 }

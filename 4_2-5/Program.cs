@@ -11,7 +11,7 @@ namespace _4_2_5
             unAgente.Nombre = Console.ReadLine();
             Console.Write("Capture la cantidad de autos vendidos en el mes: ");
             unAgente.Cantidad = int.Parse(Console.ReadLine());
-            Console.WriteLine(unAgente.CalcularSueldo());
+            Console.WriteLine($"Nombre: {unAgente.Nombre} \n{unAgente.CalcularSueldo()}");
         }
     }
 }
