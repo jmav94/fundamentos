@@ -8,6 +8,7 @@ class GalletaCircular
         set { _dblRadio = value; }
     }
     public double CalcularArea(){
+        //double area = Math.PI * Math.Pow(Radio,2);
         return Math.Round(Math.PI * Math.Pow(Radio,2), 2);
     }
 }

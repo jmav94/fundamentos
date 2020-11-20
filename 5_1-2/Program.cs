@@ -11,10 +11,10 @@ namespace _5_1_2
         {
             int intOpcion;
             bool blSalir = false;
-            Console.Write("Bienvenido!!\n");
+            Console.WriteLine("Bienvenido!!");
             do
             {
-                Console.WriteLine("---------------------------------\nCaptura la opcion en base menu \n1- Capturar Galleta circular \n2- Capturar Galleta cuadrada \n3- Capturar Galleta rectangular \n4- Imprimir los datos de todas las galletas \n5- Mostrar galleta de mayor área \n0.- Salir \n---------------------------------");
+                Console.WriteLine("---------------------------------\nCaptura la opcion en base al siguiente menu \n1- Capturar Galleta circular \n2- Capturar Galleta cuadrada \n3- Capturar Galleta rectangular \n4- Imprimir los datos de todas las galletas \n5- Mostrar galleta de mayor área \n0.- Salir \n---------------------------------");
 
                 intOpcion = int.Parse(Console.ReadLine());
 
