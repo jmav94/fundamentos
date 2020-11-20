@@ -14,6 +14,8 @@ namespace _4_2_12
             Console.Write("Capture la calificacion 3: ");
             almuno.C3 = int.Parse(Console.ReadLine());
             Console.WriteLine(almuno.Aprobado());
+            
         }
+        
     }
 }

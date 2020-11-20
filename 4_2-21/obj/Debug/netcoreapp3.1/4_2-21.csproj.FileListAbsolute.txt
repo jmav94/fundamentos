@@ -1,0 +1,13 @@
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\bin\Debug\netcoreapp3.1\4_2-21.exe
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\bin\Debug\netcoreapp3.1\4_2-21.deps.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\bin\Debug\netcoreapp3.1\4_2-21.runtimeconfig.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\bin\Debug\netcoreapp3.1\4_2-21.runtimeconfig.dev.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\bin\Debug\netcoreapp3.1\4_2-21.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\bin\Debug\netcoreapp3.1\4_2-21.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\obj\Debug\netcoreapp3.1\4_2-21.csprojAssemblyReference.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\obj\Debug\netcoreapp3.1\4_2-21.AssemblyInfoInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\obj\Debug\netcoreapp3.1\4_2-21.AssemblyInfo.cs
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\obj\Debug\netcoreapp3.1\4_2-21.csproj.CoreCompileInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\obj\Debug\netcoreapp3.1\4_2-21.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\obj\Debug\netcoreapp3.1\4_2-21.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\4_2-21\obj\Debug\netcoreapp3.1\4_2-21.genruntimeconfig.cache

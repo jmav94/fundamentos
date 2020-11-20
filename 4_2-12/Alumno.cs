@@ -1,3 +1,4 @@
+using System;
 class Alumno
 {
     private int c1;
