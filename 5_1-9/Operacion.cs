@@ -1,12 +1,12 @@
 class Operacion
 {
     public double Factorial(int num){
-        int Factorial = 1;
+        int Resultado = 1;
         for (int i = 1; i <= num; i++)
         {
-            Factorial *= i;
-            //Factorial = Factorial * i;
+            Resultado *= i;
+            //Resultado = Resultado * i;
         }
-        return Factorial;
+        return Resultado;
     }
 }

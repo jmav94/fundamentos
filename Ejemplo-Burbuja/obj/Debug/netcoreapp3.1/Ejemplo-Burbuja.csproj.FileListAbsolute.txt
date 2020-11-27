@@ -1,0 +1,13 @@
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\bin\Debug\netcoreapp3.1\Ejemplo-Burbuja.exe
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\bin\Debug\netcoreapp3.1\Ejemplo-Burbuja.deps.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\bin\Debug\netcoreapp3.1\Ejemplo-Burbuja.runtimeconfig.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\bin\Debug\netcoreapp3.1\Ejemplo-Burbuja.runtimeconfig.dev.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\bin\Debug\netcoreapp3.1\Ejemplo-Burbuja.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\bin\Debug\netcoreapp3.1\Ejemplo-Burbuja.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\obj\Debug\netcoreapp3.1\Ejemplo-Burbuja.csprojAssemblyReference.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\obj\Debug\netcoreapp3.1\Ejemplo-Burbuja.AssemblyInfoInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\obj\Debug\netcoreapp3.1\Ejemplo-Burbuja.AssemblyInfo.cs
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\obj\Debug\netcoreapp3.1\Ejemplo-Burbuja.csproj.CoreCompileInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\obj\Debug\netcoreapp3.1\Ejemplo-Burbuja.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\obj\Debug\netcoreapp3.1\Ejemplo-Burbuja.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Burbuja\obj\Debug\netcoreapp3.1\Ejemplo-Burbuja.genruntimeconfig.cache

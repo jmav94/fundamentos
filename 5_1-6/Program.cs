@@ -13,7 +13,8 @@ namespace _5_1_6
             Console.Write("Captura el segundo numero para la suma: ");
             num2 = double.Parse(Console.ReadLine());
             Console.WriteLine($"El resultado de la suma es {o.Sumar(num1,num2)}"); 
-
+            /*double resultado = o.Sumar(num1, num2);
+            Console.WriteLine($"El resultado de la suma es {resultado}"); */
         }
     }
 }
