@@ -38,7 +38,7 @@ namespace Ejemplo_Burbuja
                 for (intCelda = 0; intCelda< intTamanio; intCelda++)
                 {
                     // Asignacion de numero aleatorio a la celda del arreglo
-                    miArreglo2[intCelda] = aleatorio.Next(10,21);
+                    miArreglo2[intCelda] = aleatorio.Next(10,1001);
                 }
             }
 
@@ -46,16 +46,18 @@ namespace Ejemplo_Burbuja
             void ImprimirArreglo(int[] miArreglo3){
                 foreach (int intNumero in miArreglo3)
                 {
-                    Console.Write($"| {intNumero}");
+                    Console.Write($"| {intNumero} ");
                 }
-                Console.Write("\n");
+                Console.Write("|\n");
             }
 
             void Burbuja(ref int[] miArreglo4){
                 // variables que usaremos para el intercambio
                 int intTemporal, i, j;
+                // Recorrer el arreglo de arriba a bajo (ascendente)
                 for (i = 0; i < miArreglo4.Length - 1; i++)
                 {
+                    // Recorrer el arreglo de abajo hacia arriba (descendente)
                     for (j = miArreglo4.Length -1; j > i  ; j--)
                     {
                         if (miArreglo4[j]< miArreglo4[j-1])
