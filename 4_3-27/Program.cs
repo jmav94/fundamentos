@@ -4,9 +4,10 @@ namespace _4_3_27
 {
     class Program
     {
+        static Alumno unAlumno;
         static void Main(string[] args)
         {
-            Alumno unAlumno;
+            
             bool otroAlumno;
             do{
                 unAlumno = new Alumno();
@@ -29,7 +30,7 @@ namespace _4_3_27
 
             }while(otroAlumno);
         }
-        public double CalcularPromedio(){
+        static double CalcularPromedio(){
             double Promedio = (unAlumno.Cal1*.3) +(unAlumno.Cal2*.35)+(unAlumno.Cal3*.35);
             return Promedio;
         }
