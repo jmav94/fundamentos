@@ -10,6 +10,7 @@ namespace Ejemplo_Arreglo_como_Atributo
             int intOpcion;
             do
             {
+                Console.WriteLine("Menu de opciones\n");
                 Console.WriteLine("1- Capturar los datos de los estudiantes");
                 Console.WriteLine("2- Buscar el nombre del estudiante con Mayor promedio");
                 Console.WriteLine("0- Salir");
@@ -43,10 +44,11 @@ namespace Ejemplo_Arreglo_como_Atributo
                     
                     for (int c = 0; c < 3; c++)
                     {
-                        Console.Write("Capture la calificacion {0}: ",c+1);
+                        Console.Write("Capture la calificacion {0}: ", c+1);
                        
-                        /*int calificacion = int.Parse(Console.ReadLine());
-                        unEstudiante[c] = calificacion;*/
+                        /*int Calificacion;
+                        Calificacion = int.Parse(Console.ReadLine());
+                        unEstudiante[c] = Calificacion;*/
                         unEstudiante[c] = int.Parse(Console.ReadLine());   
                     }
                     miArregloEstudiantes[intCelda] = unEstudiante;
@@ -60,7 +62,9 @@ namespace Ejemplo_Arreglo_como_Atributo
 
                 strResultado = BuscarPromedioMayor(miArregloEstudiantes);
 
-                Console.WriteLine("El nombre del estudiante con promedio mayor es {0}",strResultado);
+                Console.WriteLine("\nEl nombre del estudiante con promedio mayor es {0}",strResultado);
+                
+                Console.WriteLine("----------------------------------------------");
             }
         
             string BuscarPromedioMayor(Estudiante[] miArreglo){
