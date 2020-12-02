@@ -1,0 +1,13 @@
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\obj\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.csprojAssemblyReference.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\obj\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.AssemblyInfoInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\obj\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.AssemblyInfo.cs
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\obj\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.csproj.CoreCompileInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\bin\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.exe
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\bin\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.deps.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\bin\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.runtimeconfig.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\bin\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.runtimeconfig.dev.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\bin\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\bin\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\obj\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\obj\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\Ejemplo-Arreglo-como-Atributo-Optimizado\obj\Debug\netcoreapp3.1\Ejemplo-Arreglo-como-Atributo-Optimizado.genruntimeconfig.cache
