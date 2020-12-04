@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\AreaCircunferencia\\AreaCircunferencia.csproj": {}
+    "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\6_1-3\\6_1-3.csproj": {}
   },
   "projects": {
-    "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\AreaCircunferencia\\AreaCircunferencia.csproj": {
+    "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\6_1-3\\6_1-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\AreaCircunferencia\\AreaCircunferencia.csproj",
-        "projectName": "AreaCircunferencia",
-        "projectPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\AreaCircunferencia\\AreaCircunferencia.csproj",
+        "projectUniqueName": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\6_1-3\\6_1-3.csproj",
+        "projectName": "6_1-3",
+        "projectPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\6_1-3\\6_1-3.csproj",
         "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\AreaCircunferencia\\obj\\",
+        "outputPath": "D:\\dev\\c#\\aplicaciones de consola\\Fundamentos-de-Programacion\\6_1-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config",

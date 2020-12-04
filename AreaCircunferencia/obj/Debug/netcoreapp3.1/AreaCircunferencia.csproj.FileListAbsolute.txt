@@ -11,3 +11,16 @@ D:\dev\c#\aplicaciones de consola\AreaCircunferencia\obj\Debug\netcoreapp3.1\Are
 D:\dev\c#\aplicaciones de consola\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.dll
 D:\dev\c#\aplicaciones de consola\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.pdb
 D:\dev\c#\aplicaciones de consola\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.genruntimeconfig.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\bin\Debug\netcoreapp3.1\AreaCircunferencia.exe
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\bin\Debug\netcoreapp3.1\AreaCircunferencia.deps.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\bin\Debug\netcoreapp3.1\AreaCircunferencia.runtimeconfig.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\bin\Debug\netcoreapp3.1\AreaCircunferencia.runtimeconfig.dev.json
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\bin\Debug\netcoreapp3.1\AreaCircunferencia.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\bin\Debug\netcoreapp3.1\AreaCircunferencia.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.csprojAssemblyReference.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.AssemblyInfoInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.AssemblyInfo.cs
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.csproj.CoreCompileInputs.cache
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.dll
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.pdb
+D:\dev\c#\aplicaciones de consola\Fundamentos-de-Programacion\AreaCircunferencia\obj\Debug\netcoreapp3.1\AreaCircunferencia.genruntimeconfig.cache
