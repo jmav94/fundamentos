@@ -7,14 +7,14 @@ namespace _6_1_3
         static Temperatura[] misTemperaturas;
         static void Main(string[] args)
         {
-            //misTemperaturas = new Temperatura[24];
-            misTemperaturas = new Temperatura[5];
+            misTemperaturas = new Temperatura[24];
+            //misTemperaturas = new Temperatura[5];
             Temperatura unaTemperatura;
             for (int i = 0; i < misTemperaturas.Length; i++)
             {
                 unaTemperatura = new Temperatura();
-                Console.Write($"Capture la temperatura de la hora {i+1}: ");
-                unaTemperatura.Valor = double.Parse(Console.ReadLine());
+                Console.Write($"Capture la temperatura de la hora {i}: ");
+                unaTemperatura.Valor = int.Parse(Console.ReadLine());
                 misTemperaturas[i] = unaTemperatura;
             }
 
@@ -23,9 +23,9 @@ namespace _6_1_3
             Console.WriteLine($"Numero de Celda con la temperatura mas Caliente: {BuscarCeldaMasCaliente()}");
             Console.WriteLine($"Valor de la temperatura más fría: {BuscarTemperaturaMasFria().Valor}");
             Console.WriteLine($"Valor de la temperatura más caliente: {BuscarTemperaturaMasCaliente().Valor}");
-
         }
 
+        
         static int BuscarCeldaMasFria(){
             int Celda = 0;
             double TempFria = misTemperaturas[0].Valor;
@@ -37,7 +37,7 @@ namespace _6_1_3
                     Celda = i;
                 }
             }
-            return Celda+1;
+            return Celda;
         }
         static int BuscarCeldaMasCaliente(){
             int Celda = 0;
@@ -50,11 +50,11 @@ namespace _6_1_3
                     Celda = i;
                 }
             }
-            return Celda+1;
+            return Celda;
         }
         static Temperatura BuscarTemperaturaMasFria(){
             Temperatura TempMasFria = new Temperatura();
-            TempMasFria.Valor = 1000;
+            TempMasFria = misTemperaturas[0];
             foreach (var temp in misTemperaturas)
             {
                 if (temp.Valor < TempMasFria.Valor)
@@ -67,12 +67,12 @@ namespace _6_1_3
 
         static Temperatura BuscarTemperaturaMasCaliente(){
             Temperatura TempMasCaliente = new Temperatura();
-            TempMasCaliente.Valor = -1000;
-            foreach (var temp in misTemperaturas)
+            TempMasCaliente = misTemperaturas[0];
+            foreach (var temperatura in misTemperaturas)
             {
-                if (temp.Valor > TempMasCaliente.Valor)
+                if (temperatura.Valor > TempMasCaliente.Valor)
                 {
-                    TempMasCaliente = temp;
+                    TempMasCaliente = temperatura;
                 }
             }
             return TempMasCaliente;

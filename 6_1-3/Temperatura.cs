@@ -1,9 +1,9 @@
 class Temperatura
 {
-    private double _dblValor;
-    public double Valor
+    private int _intValor;
+    public int Valor
     {
-        get { return _dblValor; }
-        set { _dblValor = value; }
+        get { return _intValor; }
+        set { _intValor = value; }
     }
 }
