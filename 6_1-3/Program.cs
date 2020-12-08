@@ -7,8 +7,8 @@ namespace _6_1_3
         static Temperatura[] misTemperaturas;
         static void Main(string[] args)
         {
-            misTemperaturas = new Temperatura[24];
-            //misTemperaturas = new Temperatura[5];
+            //misTemperaturas = new Temperatura[24];
+            misTemperaturas = new Temperatura[5];
             Temperatura unaTemperatura;
             for (int i = 0; i < misTemperaturas.Length; i++)
             {
