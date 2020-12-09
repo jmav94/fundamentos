@@ -33,10 +33,10 @@ class Venta
         int intCelda = 0;
         for (int i = 0; i < miArreglo.Length; i++)
         {
-            if (miArreglo[i]>dblVentaMenor)
+            if (miArreglo[i]<dblVentaMenor)
             {
                 dblVentaMenor = miArreglo[i];
-                intCelda = i;
+                intCelda = i+1;
             }
         }
 
