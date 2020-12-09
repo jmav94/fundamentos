@@ -14,7 +14,7 @@ namespace _6_1_4
                 
                 Console.WriteLine("Bienvenido, selecione la opcion que desea ejecutar.\n");
 
-                Console.WriteLine("1.- Limpiar datos de estudiantes.\n2.- Capturar datos de estudiantes.\n3.- Calcular promedio de calificaciones.\n4.- Calcular estudiantes aprobados.\n0.- Salir.");
+                Console.WriteLine("1.- Limpiar datos de estudiantes.\n2.- Capturar datos de estudiantes.\n3.- Calcular promedio de calificaciones.\n4.- Calcular estudiantes aprobados.\n5.- Mostrar estudiante con mayor calificacion\n0.- Salir.");
 
                 intOpcion = int.Parse(Console.ReadLine());
 
@@ -22,28 +22,28 @@ namespace _6_1_4
                 {
                     case 1: {
                         LimpiarEstudiantes(ref Estudiantes);
-                        Console.WriteLine("Capture cualquier letra para continuar");
-                        Console.ReadKey();
                     } break;
                     case 2: {
                         CapturarEstudiantes(ref Estudiantes);
-                        Console.WriteLine("Capture cualquier letra para continuar");
-                        Console.ReadKey();
                      } break;
                     case 3: {
                         Console.WriteLine("El promedio de califiaciones es {0}", CalcularPromedio(Estudiantes));
-                        Console.WriteLine("Capture cualquier letra para continuar");
-                        Console.ReadKey();
                     }  break;
                     // case 3: Console.WriteLine($"El promedio de califiaciones es {CalcularPromedio(Estudiantes)}"); break;
                     case 0: Console.WriteLine("Saliendo de la aplicacion."); break;
                     case 4: {
                         Console.WriteLine("La cantidad estudiantes aprobados es de {0}", CalcularEstudiantesAprobados(Estudiantes));
-                    Console.WriteLine("Capture cualquier letra para continuar");
-                        Console.ReadKey();
+                    } break;
+                    case 5: {
+                        //Console.WriteLine("El estudiante con mayor calificacion es {0} y su numerto de control es {1} y tiene una calificacion de {2}",CalcularEstudianteMayor(Estudiantes).Nombre,CalcularEstudianteMayor(Estudiantes).NControl,CalcularEstudianteMayor(Estudiantes).Calificacion);
+                        /*Console.WriteLine($"El estudiante con mayor calificacion es {CalcularEstudianteMayor(Estudiantes).Nombre} y su numerto de control es {CalcularEstudianteMayor(Estudiantes).NControl} y tiene una calificacion de {CalcularEstudianteMayor(Estudiantes).Calificacion}");*/
+                        Estudiante unEstudiante = CalcularEstudianteMayor(Estudiantes);
+                        Console.WriteLine($"El estudiante con mayor calificacion es {unEstudiante.Nombre} y su numerto de control es {unEstudiante.NControl} y tiene una calificacion de {unEstudiante.Calificacion}");
                     } break;
                     default: Console.WriteLine("Capture una opcion correcta."); break;
                 }                
+                Console.WriteLine("Capture cualquier letra para continuar");
+                        Console.ReadKey();
             } while (intOpcion != 0);   
         }
         static void LimpiarEstudiantes(ref Estudiante[] ArregloEstudiantes){
@@ -96,6 +96,21 @@ namespace _6_1_4
                 }
             }
             return CantidadAprobados;
+        }
+    
+        static Estudiante CalcularEstudianteMayor(Estudiante[] miArregloEstudiantes){
+            /*Estudiante EstudianteMayor = new Estudiante();
+            EstudianteMayor = miArregloEstudiantes[0];*/
+            Estudiante EstudianteMayor = miArregloEstudiantes[0];
+
+            foreach (Estudiante unEstudiante in miArregloEstudiantes)
+            {
+                if (unEstudiante.Calificacion > EstudianteMayor.Calificacion)
+                {
+                    EstudianteMayor = unEstudiante;
+                }
+            }
+            return EstudianteMayor;
         }
     }
 }

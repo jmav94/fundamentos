@@ -7,8 +7,11 @@ namespace _6_1_11
         static void Main(string[] args)
         {
             Venta VentaAnual = new Venta();
+            Console.Write("Capture la cantidad de celdas del arreglo: ");
+            int intCantidad = int.Parse(Console.ReadLine());
+            VentaAnual.CrearArreglo(intCantidad);
 
-            for (int i = 0; i < 12; i++)
+            for (int i = 0; i < intCantidad; i++)
             {
                 double VentaMes = 0.0;
                 Console.Write($"Capture la venta del mes {i+1}: ");
@@ -19,6 +22,7 @@ namespace _6_1_11
             Console.WriteLine($"\nEl promedio de ventas del año es de {VentaAnual.CalcularPromedio()}.");
             Console.WriteLine($"\nLa venta mayor fue de {VentaAnual.CalcularVentaMayor()}.");
             Console.WriteLine($"\nEl mes con la menor venta es {VentaAnual.MostrarMesMenor()}.");
+            Console.WriteLine($"\nEl mes con la mayor venta es {VentaAnual.MostrarMesMayor()}.");
         }
     }
 }

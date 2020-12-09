@@ -1,6 +1,15 @@
 class Venta
 {
-    private double[] miArreglo = new double[12];
+    /*public Venta(int intCantidad){
+        miArreglo = new double[intCantidad];
+    }*/
+    
+    private double[] miArreglo; 
+    
+    public void CrearArreglo(int intCantidadCeldas){
+        miArreglo = new double[intCantidadCeldas];
+    }
+
     public double this[int intPosicion]
     {
         get { return miArreglo[intPosicion]; }
@@ -36,6 +45,37 @@ class Venta
             if (miArreglo[i]<dblVentaMenor)
             {
                 dblVentaMenor = miArreglo[i];
+                intCelda = i+1;
+            }
+        }
+
+        switch (intCelda)
+        {
+            case 1: strMesLetras = "Enero";break;
+            case 2: strMesLetras = "Febrero";break;
+            case 3: strMesLetras = "Marzo";break;
+            case 4: strMesLetras = "Abril";break;
+            case 5: strMesLetras = "Mayo";break;
+            case 6: strMesLetras = "Junio";break;
+            case 7: strMesLetras = "Julio";break;
+            case 8: strMesLetras = "Agosto";break;
+            case 9: strMesLetras = "Septiembre";break;
+            case 10: strMesLetras = "Octubre";break;
+            case 11: strMesLetras = "Novimebre";break;
+            case 12: strMesLetras = "Diciembre";break;
+        }
+        return strMesLetras;
+    }
+
+    public string MostrarMesMayor(){
+        string strMesLetras = "";
+        double dblVentaMayor = miArreglo[0];
+        int intCelda = 0;
+        for (int i = 0; i < miArreglo.Length; i++)
+        {
+            if (miArreglo[i]>dblVentaMayor)
+            {
+                dblVentaMayor = miArreglo[i];
                 intCelda = i+1;
             }
         }
